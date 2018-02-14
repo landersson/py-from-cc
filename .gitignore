@@ -1,0 +1,5 @@
+.*.sw?
+*.py[cod]
+__pycache__
+*.so
+a.out
