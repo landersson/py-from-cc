@@ -1,0 +1,1 @@
+g++ run.cc -o run -I /opt/local/Library/Frameworks/Python.framework/Versions/3.6/include/python3.6m/ -I /opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/core/include/ -std=c++11 -lpython3.6 -L /opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/
